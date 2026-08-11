@@ -1,1 +1,1 @@
-https://sbrest0722-gixr.onrender.com/web/users
+https://sbrest0722-gixr.onrender.com/api/users
